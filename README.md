@@ -2,6 +2,9 @@
 
 This is a simple hello rails back-end part of the random greetings app front-end is built in rails.
 
+## Front-end
+The frontend part of this project: [hello-react-front-end](https://github.com/HSMathebula/hello-react-front-end)
+
 Things you may want to cover:
 
 - Ruby version
